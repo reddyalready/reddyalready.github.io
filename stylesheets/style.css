@@ -1,7 +1,6 @@
 @import "airbag-regular.css";
 body {
   padding: 50px;
-  background: #0e4691;
 }
 .centered {
   display: block;
@@ -16,12 +15,10 @@ body {
   text-align: center;
 }
 .description {
-  color: #fff;
   position: relative;
   font-family: Helvetica;
 }
 .name {
-  color: #fff;
   font-family: Airbag-Regular;
   font-size: 8em;
 }
