@@ -1,2 +1,1 @@
-# reddyalready.github.io
-Github Page - http://www.bharatreddy.com
+# Content for http://www.bharatreddy.com
