@@ -1,1 +1,1 @@
-# Content for http://www.bharatreddy.com
+http://www.bharatreddy.com
